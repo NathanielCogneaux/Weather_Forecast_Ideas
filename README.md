@@ -1,1 +1,1 @@
-In this repository, I explore various time series forecasting models for weather prediction using one year of hourly data. The objective is to identify the model that achieves the lowest mean squared error (MSE) for December predictions among these classic approaches.
+In this repository, I explore various time series forecasting models for weather prediction using one year of hourly data. The objective is to identify the model that achieves the lowest mean absolute error (MAE) for December predictions among these classic approaches.

@@ -2,6 +2,8 @@
 
 In this repository, I explore various time series forecasting models for weather prediction using one year of hourly data. The objective is to identify the model that achieves the lowest Mean Absolute Error (MAE) for December predictions among these classic approaches.
 
+Note: some interesting model to add later is the prophet model, it's of course an old and maybe too simple model but combined to an XGBoost that tries to learn the residuals it might be very interesting.
+
 ## Model Performance Summary
 
 | Model                       | Training Time | MAE for 63rd Street Weather Station | MAE for Foster Weather Station | MAE for Oak Street Weather Station | Strengths                                           | Weaknesses                                           |

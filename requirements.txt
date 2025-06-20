@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+catboost
+darts
+pytorch-lightning
+torch

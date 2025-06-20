@@ -4,6 +4,11 @@ In this repository, I explore various time series forecasting models for weather
 
 Note: some interesting model to add later is the prophet model, it's of course an old and maybe too simple model but combined to an XGBoost that tries to learn the residuals it might be very interesting.
 
+Install all required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ## Model Performance Summary
 
 | Model                       | Training Time | MAE for 63rd Street Weather Station | MAE for Foster Weather Station | MAE for Oak Street Weather Station | Strengths                                           | Weaknesses                                           |
